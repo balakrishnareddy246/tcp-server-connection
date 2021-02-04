@@ -1,3 +1,7 @@
+#go run server.go 8081
+#nc localhost:8081
+
+
 package main
 
 import (
